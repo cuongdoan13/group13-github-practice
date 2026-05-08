@@ -91,11 +91,17 @@ to_do_list/
 
 -Bao gồm:
 
--Hiển thị menu
+-Hiển thị menu chính (show_menu)
 
--Nhận input từ người dùng
+-Nhận input từ người dùng (prompt_input)
 
--Hiển thị thông báo và danh sách công việc
+-Hiển thị danh sách công việc (show_task_list)
+
+-Hiển thị kết quả tìm kiếm (show_search_result)
+
+-Xác nhận xóa task (show_delete_confirm)
+
+-Hiển thị màn hình thoát (show_exit)
 
 ## 🌿 Các nhánh Git
 
